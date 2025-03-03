@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-drealestaterentalass-dev-63d19-authRole",
+      "UnauthRoleArn": "arn:aws:iam::528757820912:role/amplify-drealestaterentalass-dev-63d19-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::528757820912:role/amplify-drealestaterentalass-dev-63d19-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-drealestaterentalass-dev-63d19-deployment",
+      "UnauthRoleName": "amplify-drealestaterentalass-dev-63d19-unauthRole",
+      "StackName": "amplify-drealestaterentalass-dev-63d19",
+      "StackId": "arn:aws:cloudformation:eu-north-1:528757820912:stack/amplify-drealestaterentalass-dev-63d19/989463b0-f7f3-11ef-afbe-0a93a57612af",
+      "AmplifyAppId": "d3omct4gx1su1c"
+    },
+    "categories": {
+      "auth": {
+        "drealestaterentalassa6f975ac": {}
+      }
+    }
+  }
+}
